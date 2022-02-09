@@ -57,10 +57,10 @@ Once it's done, we can check the result by going back to the console
     ![](../images/Mturk/11.png)
 
 12. The labelled result will be displayed on the screen.
-    ![](../images/Mturk/12.png)
-
-13. To check the output JSON, go back to your labelling jobs, and click "Output dataset location"
     ![](../images/Mturk/13.png)
+
+13. To check the output JSON, go back to your labelling jobs, and click `Output dataset location`
+    ![](../images/Mturk/12.png)
 
 14. go to folder `/output/<yourname>-menu-job-label/annotations/consolidated-annotation/consolidation-request/iteration-1/yyyy-mm-dd.json`. Click the json and click `Download` to see the full result.
     ![](../images/Mturk/14.png)
