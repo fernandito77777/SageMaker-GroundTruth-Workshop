@@ -1,4 +1,4 @@
-# Sage Maker Ground Truth Workshop
+# SageMaker Ground Truth Workshop
 
 On this workshop, we are going to use SageMaker Ground Truth to help label the process of the data. During machine learning development, Data needs to be prepared and labelled to give more accurate prediction for supervised machine learning use cases. SageMaker Ground truth is a service that helps to centralized the annotation data jobs into one.
 
