@@ -42,7 +42,9 @@ Now, let's try to label a few of our data
     ![](../images/CloneChain/8.png)
 
 9. Fill your username and your password, just like previous step.
+
     ![](../images/CloneChain/9.png)
+
 
 10. Choose the job, and click "Start Working"
     ![](../images/CloneChain/10.png)
@@ -92,6 +94,7 @@ Now, we can try to stop the job in the middle of running job. We do this to chai
     ![](../images/CloneChain/24.png)
 
 25. if you check your S3 bucket output folder, it will be separated for each labelling job, making sure that you know which job that you want to check the labelled result.
+
     ![](../images/CloneChain/25.png)
 
 
