@@ -70,6 +70,6 @@ Once it's done, we can check the result by going back to the console
 
 [BACK TO WORKSHOP GUIDE :house:](../README.md)
 
-[CONTINUE TO NEXT GUIDE :arrow_right:](ChainClone.md)
+[CONTINUE TO NEXT GUIDE :arrow_right:](CloneChain.md)
 
 [BACK TO PREVIOUS GUIDE :arrow_left:](Private.md)
